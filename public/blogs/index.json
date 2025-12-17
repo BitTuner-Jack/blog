@@ -8,5 +8,16 @@
     "cover": "/blogs/test/60b918e82f628922.png",
     "hidden": false,
     "category": ""
+  },
+  {
+    "slug": "npm-manage",
+    "title": "NPM 源管理指南",
+    "tags": [
+      "tools"
+    ],
+    "date": "2025-10-15T22:31",
+    "summary": "",
+    "hidden": false,
+    "category": ""
   }
 ]
