@@ -1,5 +1,17 @@
 [
   {
+    "slug": "git-sync",
+    "title": "Git 同步上游并解决冲突完全指南",
+    "tags": [
+      "tools"
+    ],
+    "date": "2025-12-22T21:30",
+    "summary": "",
+    "cover": "/blogs/git-sync/15c85e49ca72caae.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "di-tan-zhai",
     "title": "《我与地坛》- 摘",
     "tags": [
