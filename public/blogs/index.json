@@ -1,5 +1,17 @@
 [
   {
+    "slug": "nrm",
+    "title": "nrm 使用方法",
+    "tags": [
+      "tools"
+    ],
+    "date": "2026-01-09T23:31",
+    "summary": "",
+    "cover": "/blogs/nrm/7fd6ab21fe4e2159.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "ai-newton",
     "title": "牛顿法",
     "tags": [],
