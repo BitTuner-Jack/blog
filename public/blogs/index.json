@@ -1,5 +1,51 @@
 [
   {
+    "slug": "nrm",
+    "title": "nrm 使用方法",
+    "tags": [
+      "tools"
+    ],
+    "date": "2026-01-09T23:31",
+    "summary": "",
+    "cover": "/blogs/nrm/7fd6ab21fe4e2159.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
+    "slug": "ai-newton",
+    "title": "牛顿法",
+    "tags": [],
+    "date": "2026-01-03T22:29",
+    "summary": "",
+    "cover": "/blogs/ai-newton/373963b98f9904a3.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
+    "slug": "yuandan-cq",
+    "title": "记-元旦重庆之行",
+    "tags": [
+      "travel"
+    ],
+    "date": "2026-01-03T21:36",
+    "summary": "",
+    "cover": "/blogs/yuandan-cq/a34545efd8c93b11.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
+    "slug": "git-sync",
+    "title": "Git 同步上游并解决冲突完全指南",
+    "tags": [
+      "tools"
+    ],
+    "date": "2025-12-22T21:30",
+    "summary": "",
+    "cover": "/blogs/git-sync/15c85e49ca72caae.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "di-tan-zhai",
     "title": "《我与地坛》- 摘",
     "tags": [
